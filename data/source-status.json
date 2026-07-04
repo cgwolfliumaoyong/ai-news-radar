@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-04T09:03:39.616854Z",
+  "generated_at": "2026-07-04T11:03:52.632998Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 187,
-      "duration_ms": 4334,
+      "duration_ms": 9136,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 208,
+      "duration_ms": 216,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 39,
-      "duration_ms": 22,
+      "duration_ms": 767,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 470,
+      "duration_ms": 427,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 335,
+      "duration_ms": 340,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 446,
-      "duration_ms": 15403,
+      "item_count": 441,
+      "duration_ms": 14883,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 660,
+      "duration_ms": 1174,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3044,
-      "duration_ms": 1706,
+      "item_count": 3039,
+      "duration_ms": 1583,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 80,
-      "duration_ms": 359,
+      "item_count": 78,
+      "duration_ms": 471,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 302,
+      "duration_ms": 234,
       "error": null
     },
     {
@@ -86,23 +86,23 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1230,
+      "duration_ms": 1313,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 24509,
-      "error": "HTTPSConnectionPool(host='aihot.virxact.com', port=443): Max retries exceeded with url: /feed/daily.xml (Caused by NewConnectionError(\"HTTPSConnection(host='aihot.virxact.com', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 1265,
+      "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 129,
-      "duration_ms": 638,
+      "item_count": 128,
+      "duration_ms": 871,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": true,
       "partial_failures": 1,
       "item_count": 165,
-      "duration_ms": 5629,
+      "duration_ms": 6446,
       "error": "1 feeds failed",
       "feed_count": 5,
       "effective_feed_count": 5,
@@ -121,14 +121,12 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 13,
-  "failed_sites": [
-    "aihot"
-  ],
+  "successful_sites": 14,
+  "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5268,
-  "items_before_topic_filter": 6318,
-  "items_in_24h": 578,
+  "fetched_raw_items": 5305,
+  "items_before_topic_filter": 6016,
+  "items_in_24h": 556,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -152,7 +150,7 @@
         "effective_feed_url": "https://updates.midjourney.com/rss",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 163,
+        "duration_ms": 139,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -167,7 +165,7 @@
         "effective_feed_url": "https://pika.art/blog/rss.xml",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 283,
+        "duration_ms": 639,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -182,7 +180,7 @@
         "effective_feed_url": "https://runwayml.com/blog/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 332,
+        "duration_ms": 245,
         "error": "404 Client Error: Not Found for url: https://runwayml.com/news/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -197,7 +195,7 @@
         "effective_feed_url": "https://rss.zol.com.cn/news_toutiao.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 2034,
+        "duration_ms": 2184,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -212,7 +210,7 @@
         "effective_feed_url": "https://www.pconline.com.cn/app/feed",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 2817,
+        "duration_ms": 3239,
         "error": null,
         "skipped": false,
         "skip_reason": null,

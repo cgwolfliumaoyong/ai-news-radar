@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-18T16:26:35.642011Z",
+  "generated_at": "2026-07-18T17:27:46.294255Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 178,
-      "duration_ms": 10351,
+      "duration_ms": 4635,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 224,
+      "duration_ms": 186,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 418,
+      "duration_ms": 464,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 446,
+      "duration_ms": 337,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 350,
-      "duration_ms": 12121,
+      "item_count": 352,
+      "duration_ms": 15223,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1839,
+      "duration_ms": 849,
       "error": null
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3028,
-      "duration_ms": 1891,
+      "duration_ms": 1527,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 63,
-      "duration_ms": 422,
+      "item_count": 67,
+      "duration_ms": 487,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 376,
+      "duration_ms": 373,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1042,
+      "duration_ms": 5611,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 623,
+      "duration_ms": 698,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 121,
-      "duration_ms": 1076,
+      "duration_ms": 850,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": true,
       "partial_failures": 1,
       "item_count": 165,
-      "duration_ms": 7318,
+      "duration_ms": 8943,
       "error": "1 feeds failed",
       "feed_count": 5,
       "effective_feed_count": 5,
@@ -124,9 +124,9 @@
   "successful_sites": 14,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5163,
-  "items_before_topic_filter": 6185,
-  "items_in_24h": 611,
+  "fetched_raw_items": 5169,
+  "items_before_topic_filter": 6138,
+  "items_in_24h": 597,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -150,7 +150,7 @@
         "effective_feed_url": "https://updates.midjourney.com/rss",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 138,
+        "duration_ms": 129,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -165,7 +165,7 @@
         "effective_feed_url": "https://pika.art/blog/rss.xml",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 247,
+        "duration_ms": 244,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -180,7 +180,7 @@
         "effective_feed_url": "https://runwayml.com/blog/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 250,
+        "duration_ms": 402,
         "error": "404 Client Error: Not Found for url: https://runwayml.com/news/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -195,7 +195,7 @@
         "effective_feed_url": "https://rss.zol.com.cn/news_toutiao.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 2270,
+        "duration_ms": 3908,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -210,7 +210,7 @@
         "effective_feed_url": "https://www.pconline.com.cn/app/feed",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 4413,
+        "duration_ms": 4260,
         "error": null,
         "skipped": false,
         "skip_reason": null,

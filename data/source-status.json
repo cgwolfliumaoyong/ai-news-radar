@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-14T21:15:07.106461Z",
+  "generated_at": "2026-08-14T21:46:16.640133Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 171,
-      "duration_ms": 2821,
+      "duration_ms": 3014,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 43,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 37,
-      "duration_ms": 271,
+      "duration_ms": 32,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 637,
+      "duration_ms": 517,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 324,
+      "duration_ms": 323,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 318,
-      "duration_ms": 10905,
+      "duration_ms": 12207,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1023,
+      "duration_ms": 1146,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3029,
-      "duration_ms": 1523,
+      "item_count": 2973,
+      "duration_ms": 1568,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 73,
-      "duration_ms": 463,
+      "item_count": 78,
+      "duration_ms": 475,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5184,
+      "duration_ms": 5107,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1787,
+      "duration_ms": 1622,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1010,
+      "duration_ms": 1444,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 127,
-      "duration_ms": 1848,
+      "duration_ms": 2274,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": true,
       "partial_failures": 3,
       "item_count": 65,
-      "duration_ms": 15160,
+      "duration_ms": 14502,
       "error": "3 feeds failed",
       "feed_count": 5,
       "effective_feed_count": 5,
@@ -127,9 +127,9 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5040,
-  "items_before_topic_filter": 7365,
-  "items_in_24h": 706,
+  "fetched_raw_items": 4989,
+  "items_before_topic_filter": 7396,
+  "items_in_24h": 714,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -153,7 +153,7 @@
         "effective_feed_url": "https://updates.midjourney.com/rss",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 108,
+        "duration_ms": 289,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -168,7 +168,7 @@
         "effective_feed_url": "https://pika.art/blog/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 479,
+        "duration_ms": 312,
         "error": "404 Client Error: Not Found for url: https://experiment.pika.art/blog/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -183,7 +183,7 @@
         "effective_feed_url": "https://runwayml.com/blog/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 524,
+        "duration_ms": 600,
         "error": "404 Client Error: Not Found for url: https://runway.com/news/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -198,7 +198,7 @@
         "effective_feed_url": "https://rss.zol.com.cn/news_toutiao.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 10010,
+        "duration_ms": 10027,
         "error": "HTTPSConnectionPool(host='rss.zol.com.cn', port=443): Max retries exceeded with url: /news_toutiao.xml (Caused by NameResolutionError(\"HTTPSConnection(host='rss.zol.com.cn', port=443): Failed to resolve 'rss.zol.com.cn' ([Errno -3] Temporary failure in name resolution)\"))",
         "skipped": false,
         "skip_reason": null,
@@ -213,7 +213,7 @@
         "effective_feed_url": "https://www.pconline.com.cn/app/feed",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 4039,
+        "duration_ms": 3274,
         "error": null,
         "skipped": false,
         "skip_reason": null,

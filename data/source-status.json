@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T09:30:01.002903Z",
+  "generated_at": "2026-10-07T21:41:36.851246Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 211,
-      "duration_ms": 3315,
+      "item_count": 203,
+      "duration_ms": 3342,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 127,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 65,
+      "duration_ms": 111,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 377,
+      "duration_ms": 371,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 398,
+      "duration_ms": 574,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 349,
-      "duration_ms": 15375,
+      "item_count": 314,
+      "duration_ms": 16140,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 826,
+      "duration_ms": 1207,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3027,
-      "duration_ms": 1587,
+      "item_count": 2937,
+      "duration_ms": 1605,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 78,
-      "duration_ms": 682,
+      "duration_ms": 780,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5178,
+      "duration_ms": 5365,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
     },
     {
@@ -86,23 +86,23 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1344,
+      "duration_ms": 1563,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 4117,
+      "item_count": 51,
+      "duration_ms": 942,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 122,
-      "duration_ms": 2138,
+      "item_count": 123,
+      "duration_ms": 1600,
       "error": null
     },
     {
@@ -111,7 +111,7 @@
       "ok": true,
       "partial_failures": 2,
       "item_count": 165,
-      "duration_ms": 9920,
+      "duration_ms": 9010,
       "error": "2 feeds failed",
       "feed_count": 5,
       "effective_feed_count": 5,
@@ -127,9 +127,9 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5213,
-  "items_before_topic_filter": 5033,
-  "items_in_24h": 536,
+  "fetched_raw_items": 5082,
+  "items_before_topic_filter": 4042,
+  "items_in_24h": 474,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -152,7 +152,7 @@
         "effective_feed_url": "https://updates.midjourney.com/rss",
         "ok": true,
         "item_count": 15,
-        "duration_ms": 150,
+        "duration_ms": 460,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -167,7 +167,7 @@
         "effective_feed_url": "https://pika.art/blog/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 235,
+        "duration_ms": 267,
         "error": "404 Client Error: Not Found for url: https://pika.art/blog/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -182,7 +182,7 @@
         "effective_feed_url": "https://runwayml.com/blog/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 600,
+        "duration_ms": 534,
         "error": "404 Client Error: Not Found for url: https://runway.com/news/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -197,7 +197,7 @@
         "effective_feed_url": "https://rss.zol.com.cn/news_toutiao.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 3125,
+        "duration_ms": 2205,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -212,7 +212,7 @@
         "effective_feed_url": "https://www.pconline.com.cn/app/feed",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 5810,
+        "duration_ms": 5544,
         "error": null,
         "skipped": false,
         "skip_reason": null,
